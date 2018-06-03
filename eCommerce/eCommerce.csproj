@@ -148,7 +148,7 @@
     <Compile Include="InfrastructureLayer\MemoryRepository.cs" />
     <Compile Include="InfrastructureLayer\SmtpEmailDispatcher.cs" />
     <Compile Include="Helpers\Domain\DomainEvents.cs" />
-    <Compile Include="Helpers\Domain\Handle.cs" />
+    <Compile Include="Helpers\Domain\Handles.cs" />
     <Compile Include="Helpers\Domain\IAggregateRoot.cs" />
     <Compile Include="Helpers\Domain\DomainEvent.cs" />
     <Compile Include="InfrastructureLayer\StubEmailGenerator.cs" />
